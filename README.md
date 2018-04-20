@@ -26,7 +26,7 @@ Without loging in, you can go to the 'Find a Salesperson' tab. You then click on
 
 Vulnerability #2: Session Hijacking/Fixation:
 
-Gif:
+Gif: <img src="https://github.com/mpai000/websec-week8/blob/master/blue2.gif">
 
 Discussion: 
 
@@ -36,14 +36,15 @@ In this, you open the red version of the site in one web brower and the session 
 
 Vulnerability #1: Username Enumeration
 
-Gif:
+Gif: <img src="https://github.com/mpai000/websec-week8/blob/master/green1.gif">
 
 Discussion: 
 
 Hever you can see that a registered user, if he/she fails to login correctly, the error is shown in bold, whereas for an unregistered user, it's not shwon in bold. 
 
 Vulnerability #2: Cross-Site Scripting (XSS)
-Gif:
+
+Gif:<img src="https://github.com/mpai000/websec-week8/blob/master/green2.gif">
 
 Discussion:
 
@@ -54,7 +55,7 @@ Here a person can go to the contact tab and type <script>alert('Meghna found the
 
 Vulnerability #1: Insecure Direct Object Reference (IDOR)
 
-Gif:
+Gif:<img src="https://github.com/mpai000/websec-week8/blob/master/red1.gif">
 
 Discussion:
 When we login as admin, we can see the two salesperson, whose information should not be made visible. We can get their id number (id 10 and 11).
