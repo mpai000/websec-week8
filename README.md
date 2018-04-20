@@ -18,7 +18,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: SQL Injection
 
-Gif:
+Gif: <img src="https://github.com/mpai000/websec-week8/blob/master/blue1.gif">
 
 Discussion:
 
