@@ -69,6 +69,8 @@ Gif: <img src="https://github.com/mpai000/websec-week8/blob/master/red2.gif">
 
 Discussion:
 
+You first log in, and go to the salesperson tab. From there you click on an existing person and click on edit. You then run your html file and relaod the page. You can then see the name changed to what you had.
+
 
 ## Notes
 
