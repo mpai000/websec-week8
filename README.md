@@ -65,7 +65,7 @@ As a unregistered user, I could go to the list of salesperson and chlick on one.
 
 Vulnerability #2: Cross-Site Request Forgery (CSRF)
 
-Gif:
+Gif: <img src="https://github.com/mpai000/websec-week8/blob/master/red2.gif">
 
 Discussion:
 
